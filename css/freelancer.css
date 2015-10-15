@@ -1,0 +1,76 @@
+/* BARRA DE NAVEGACION */
+.body{
+	margin:0;
+	padding: 0;
+	color: #2c3e50;
+	background-color: #2c3e50;
+	line-height: 1.5em;
+	padding-top:60px; 
+}
+
+/* TEXTO TÍTULOS */
+
+.intro-text{
+	width: cover;
+	height: 600px;
+	padding: 15%;
+	text-align: center;
+	font-weight: bold;
+	color: #fff;
+}
+#intro-text{
+	width: cover;
+	height: 650px;
+	padding: 13%;
+	text-align: center;
+	font-weight: bold;
+	color: #fff;
+}
+.intro-text-white{
+	width: cover;
+	height: auto;
+	padding: 5%;
+	text-align: center;
+	color: #fff;
+}
+
+/* ESTILOS DE LAS FUENTES */
+#p{
+  color: #18bc9c;
+}
+.text-fff{
+	color: #fff;
+}
+.font-50{
+	font-size: 50px;
+}
+.font-30{
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 1;
+}
+.mg-t-5{
+	margin-top: 5%;
+}
+
+/* Línea del logotipo -star- */
+.line{
+	margin-top: -10px;
+}
+
+/* Estilos para el botón Download Theme*/
+.btn{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border-radius: 5px;
+	border: #fff solid;
+	text-align: center;	
+}
+
+/* Estilos para el footer*/
+.copyright{
+	text-align: center;
+	color: #fff;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
